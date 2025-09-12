@@ -19,11 +19,6 @@ El programa:
 
 ---
 
-## 🛠️ Tecnologías
-- Lenguaje: **Python 3**
-- Conceptos aplicados: Clases, listas, bucles, entrada de usuario y métodos.
-
----
 
 ## 📸 Evidencia de funcionamiento
 
