@@ -28,10 +28,11 @@ El programa:
 ## 📸 Evidencia de funcionamiento
 
 ### Formato de preguntas
-![Preguntas](858bf242-35a4-49fc-a3a4-0b61785c1029.png)
+<img width="1127" height="212" alt="Captura de pantalla 2025-09-11 221610" src="https://github.com/user-attachments/assets/fc3f95f6-f8cb-42e3-8737-db9fda529f16" />
+
 
 ### Formato de respuestas (se muestran al finalizar la encuesta)
-![Respuestas](ce3a9290-7dac-4c04-a9c5-f34782affe46.png)
+<img width="1073" height="208" alt="Captura de pantalla 2025-09-11 221620" src="https://github.com/user-attachments/assets/bedb4fa0-44a0-4934-9c05-d2b7996c05af" />
 
 ---
 
