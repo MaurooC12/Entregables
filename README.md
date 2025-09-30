@@ -8,7 +8,7 @@ Este taller aborda la **encapsulación en Programación Orientada a Objetos (POO
 - **Buenas prácticas** de diseño en POO para mantener la claridad y seguridad en el código.
   
 ## 📂 Contenido del Repositorio
-- `` → Documento con las **respuestas y desarrollo del taller**.
+- `Entregable - Taller de repaso.pdf` → Documento con las **respuestas y desarrollo del taller**.
 - `Anteriores` → Carpeta con los entregables anteriores.  
 
 ## 👥 Autor
