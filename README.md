@@ -1,34 +1,22 @@
-# ENTREGABLE ACTUAL: Encuesta Proyecto Python
-
-Este proyecto implementa en **Python** una encuesta a estudiantes para recopilar ideas sobre proyectos.  
-Se entrevistará hasta un máximo de 10 estudiantes, registrando sus respuestas y mostrando los resultados al final.
-
----
+# ENTREGABLE ACTUAL: Taller de Repaso POO
 
 ## 📌 Descripción
-El programa:
-- Solicita datos del estudiante (nombre y carrera).
-- Realiza una serie de preguntas sobre intereses, habilidades en Python y disponibilidad.
-- Permite añadir varios estudiantes de manera consecutiva.
-- Muestra los resultados completos una vez se selecciona que **no se desea ingresar más estudiantes**.
+Este taller aborda la **encapsulación en Programación Orientada a Objetos (POO) con Python**, repasando los conceptos fundamentales de:
+
+- **Atributos públicos, protegidos y privados**.  
+- Uso de **propiedades** mediante `@property` y `@setter`.  
+- **Buenas prácticas** de diseño en POO para mantener la claridad y seguridad en el código.
+  
+## 📂 Contenido del Repositorio
+- `` → Documento con las **respuestas y desarrollo del taller**.
+- `Anteriores` → Carpeta con los entregables anteriores.  
+
+## 👥 Autor
+- Mauricio Cepeda Villanueva  
 
 ---
 
-## 📂 Contenido
-- `encuestaProyecto.py` → contiene las clases `Encuesta` y `Estudiante` y la ejecución del programa.
+## 📜 Licencia
+Este proyecto se distribuye bajo la licencia **MIT**.  
+Consulta el archivo [`LICENSE`](LICENSE) para más información.
 
----
-
-
-## 📸 Evidencia de funcionamiento
-
-### Formato de preguntas
-<img width="1127" height="212" alt="Captura de pantalla 2025-09-11 221610" src="https://github.com/user-attachments/assets/fc3f95f6-f8cb-42e3-8737-db9fda529f16" />
-
-
-### Formato de respuestas (se muestran al finalizar la encuesta)
-<img width="1073" height="208" alt="Captura de pantalla 2025-09-11 221620" src="https://github.com/user-attachments/assets/bedb4fa0-44a0-4934-9c05-d2b7996c05af" />
-
----
-
-👨‍💻 **Autor:** Mauricio Cepeda Villanueva
