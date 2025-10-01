@@ -32,14 +32,14 @@ Este taller aborda la **encapsulación en Programación Orientada a Objetos (POO
 ### 3  
 a) **Falso** – El guion bajo simple (`_atributo`) es solo convención: indica “esto es interno”, pero en realidad sí puedo acceder desde fuera.  
 
-b) **Falso** – Con (`__atributo`) ocurre el *name mangling*: Python lo transforma internamente a `_Clase__atributo`. Eso lo vuelve menos accesible de manera accidental, pero no imposible; aún se puede acceder usando el nombre cambiado.  
+b) **Falso** – Con (`__atributo`) ocurre el *name mangling*: Python lo transforma internamente a `_Clase__atributo`. Eso hace que aún se puede acceder usando el nombre cambiado.  
 
 c) **Verdadero** – El atributo (`__x`) en una clase `A` se guarda como (`_A__x`), mientras que en una clase `B` sería (`_B__x`). El nombre de la clase forma parte del atributo *mangled*.
 
 ---
 
 ### 4  
-Imprime `abc` y no hay error de acceso porque en Python el prefijo con un solo guion bajo (`_token`) es solo convención de “uso interno”.  
+Imprime `abc` y no hay error de acceso porque en Python el prefijo con un solo guion bajo (`_token`) es solo convención de un uso por dentro.  
 El lenguaje no bloquea el acceso desde fuera de la clase ni desde una subclase.  
 Por eso, `Sub` puede usar sin problema el atributo (`_token`) definido en `Base`.
 
@@ -160,12 +160,11 @@ class Motor:
 ---
 
 ### 16  
-- `_atributo`: Es como decir “esto es privado, pero si alguien lo necesita, lo puede usar”.  
+- `_atributo`: Es como decir, solo se puede usar si se necesita, porque no está oculto pero tampoco es tan sencillo.  
   No está hecho para mostrarse, pero tampoco está realmente oculto.
 
-- `__atributo`: Aquí sí es como decir “esto no se puede usar directamente”.  
-  Python le cambia el nombre internamente (*name mangling*) para que no sea fácil de encontrar.  
-  Es una forma de esconder atributos y evitar accesos accidentales.
+- `__atributo`: Esto sí es como no se puede usar.  
+  Python le cambia el nombre internamente (*name mangling*) para que no sea fácil de encontrar es como la forma de python de esconder atributos y evitar accesos accidentales.
 
 ---
 
