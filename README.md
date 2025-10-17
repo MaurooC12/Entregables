@@ -20,6 +20,11 @@ Este entregable aborda la **Implementación de FireBase a un proyecto prueba de 
 ### r y d
 <img width="424" height="155" alt="image" src="https://github.com/user-attachments/assets/d4366949-b1c6-4472-99cf-0d8822086498" />
 
+### Modificaciones
+<img width="812" height="99" alt="image" src="https://github.com/user-attachments/assets/5fcb2074-991c-4d3e-8e1b-24d59a2141e7" />
+
+Creación de .env
+
 ### Pendientes
 Para la utilización de otros comandos como save, del, list, se necesita configuración del Storage pero está fuera del alcance actualmente
 ---
