@@ -2,7 +2,7 @@ from Domain.Animal import Animal
 
 class Terrestres(Animal):
     def __init__(self, especie, dieta, edad, apodo):
-        super().__init__(especie, edad, dieta)
+        super().__init__(especie=especie, edad=edad, dieta=dieta)
         self.apodo = apodo
 
     def comunicarse(self):
@@ -12,5 +12,5 @@ class Terrestres(Animal):
         print(f"{self.apodo} se traslada por patas.")
 
     def comer(self):
+        print(f"El {self.especie} {self.apodo} está comiendo...")
         self.alimentarse()
-        print(f"El terrestre es {self.dieta}, por lo que digiere carne, plantas o ambos.")

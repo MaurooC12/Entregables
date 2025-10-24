@@ -16,7 +16,7 @@ def crear_animal():
     tipo = input("Selecciona una opción (1-3): ")
 
     especie = input("Especie: ")
-    dieta = input("Dieta (carne, plantas, ambos): ")
+    dieta = input("Dieta (carnívoro/carne, herbívoro/plantas, omnívoro/ambos): ")
     edad = int(input("Edad: "))
     apodo = input("Apodo: ")
 
