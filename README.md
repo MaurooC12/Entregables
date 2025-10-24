@@ -1,7 +1,8 @@
 # ENTREGABLE ACTUAL: Herencia y Polimorfismo en Python
 
 ## Descripción  
-Este entregable aborda la **implementación de herencia, polimorfismo y organización modular en Python**, mediante un sistema de animales
+Este entregable aborda la **implementación de herencia, polimorfismo y organización modular en Python**, mediante un sistema de animales. Adicional, mediante el uso de clases y herencia, se busca crear distintos animales y simular acciones como comer, caminar y comunicarse, permitiendo clasificarlos según su especie (terrestre, acuático o aéreo).
+
 
 - Separación en paquetes (`Domain`, `vm`, `App`)
 - Aplicación de métodos sobrescritos (`comunicarse`, `caminar`, `comer`)
