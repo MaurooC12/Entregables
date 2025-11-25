@@ -1,12 +1,7 @@
-# ENTREGABLE ACTUAL: Herencia y Polimorfismo en Python
+# ENTREGABLE ACTUAL: Hilos en Python
 
 ## Descripción  
-Este entregable aborda la **implementación de herencia, polimorfismo y organización modular en Python**, mediante un sistema de animales. Adicional, mediante el uso de clases y herencia, se busca crear distintos animales y simular acciones como comer, caminar y comunicarse, permitiendo clasificarlos según su especie (terrestre, acuático o aéreo).
-
-
-- Separación en paquetes (`Domain`, `vm`, `App`)
-- Aplicación de métodos sobrescritos (`comunicarse`, `caminar`, `comer`)
-- Menú interactivo en consola para crear y manipular actividades de los animales
+Este entregable implementa programación concurrente mediante hilos (threading) dentro de un videojuego estilo Dino Runner. El objetivo es demostrar cómo múltiples procesos pueden ejecutarse en paralelo sin bloquear la interfaz gráfica desarrollada con Tkinter.
 
 ---
 
@@ -25,6 +20,10 @@ Este entregable aborda la **implementación de herencia, polimorfismo y organiza
 <img width="1092" height="194" alt="image" src="https://github.com/user-attachments/assets/50a3f32e-6ce8-434b-ab93-11eb88a120bb" />
 
 
+---
+## Contenido del repositorio
+### Entregables anteriores
+### hilos.py
 ---
 
 ## 👥 Autor
