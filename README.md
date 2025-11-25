@@ -6,24 +6,30 @@ Este entregable implementa programación concurrente mediante hilos (threading) 
 ---
 
 ## Visualizaciones  
-### Menú principal  
-<img width="1268" height="112" alt="image" src="https://github.com/user-attachments/assets/05c4e509-bbe4-44ed-9db3-374cb5f1247b" />
-
-### Creación de animal  
-<img width="1262" height="126" alt="image" src="https://github.com/user-attachments/assets/bf8a9678-47cc-4598-81b0-192e0f200250" />
-<img width="1088" height="203" alt="image" src="https://github.com/user-attachments/assets/2561229e-7cef-4396-9e94-7e38516609e6" />
+### Frame inicial
+<img width="1001" height="475" alt="image" src="https://github.com/user-attachments/assets/24839f5a-9c13-4f80-b66f-d36cb3d0621d" />
 
 
+### Figuras implementadas
+#### Dino
+<img width="81" height="89" alt="image" src="https://github.com/user-attachments/assets/f23a8704-4d8b-4292-a691-350d56c65413" />
 
+#### Obstáculos
+<img width="80" height="97" alt="image" src="https://github.com/user-attachments/assets/ce005e21-fe46-4043-a951-daa7080b305a" /> <img width="108" height="113" alt="image" src="https://github.com/user-attachments/assets/865a7f31-e98a-4781-85c2-132f1b3b4b52" /> <img width="111" height="102" alt="image" src="https://github.com/user-attachments/assets/2ad64fc0-02f9-4c2e-a6e4-6d6057d70664" />
 
-### Acciones del animal  
-<img width="1092" height="194" alt="image" src="https://github.com/user-attachments/assets/50a3f32e-6ce8-434b-ab93-11eb88a120bb" />
+### Winner  
+<img width="96" height="101" alt="image" src="https://github.com/user-attachments/assets/17fcc519-efa2-4beb-af7a-e62b723a49e7" />
+
 
 
 ---
 ## Contenido del repositorio
 ### Entregables anteriores
-### hilos.py
+[`Anteriores`](./Anteriores). Contiene archivos como `AccessModifiersPython`, `Herencia & Polimorfismo`, `encuestaEstudiante`, `perroFeliz` 
+
+### Entregable actual
+[`hilos.py`](./hilos.py). es el entregable actual
+
 ---
 
 ## 👥 Autor
