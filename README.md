@@ -28,8 +28,8 @@ Este entregable implementa programación concurrente mediante hilos (threading) 
 [`Anteriores`](./Anteriores). Contiene archivos como `AccessModifiersPython`, `Herencia & Polimorfismo`, `encuestaEstudiante`, `perroFeliz` 
 
 ### Entregable actual
-[`hilos.py`](./hilos.py). es el entregable actual
-
+[`hilos.py`](./hilos.py). es el código del entregable actual
+[`hilos.exe`](./hilos.exe). es el entregable actual en formato .exe
 ---
 
 ## 👥 Autor
